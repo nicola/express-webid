@@ -1,0 +1,27 @@
+{
+  "name": "express-webid",
+  "version": "0.1.0",
+  "description": "Authenticate with WebID on ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicola/express-webid"
+  },
+  "keywords": [
+    "webid",
+    "linked",
+    "data",
+    "ldp",
+    "solid",
+    "authentication"
+  ],
+  "author": "Nicola Greco <me@nicola.io> (http://nicolagreco.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicola/express-webid/issues"
+  },
+  "homepage": "https://github.com/nicola/express-webid"
+}
